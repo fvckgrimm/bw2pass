@@ -19,6 +19,12 @@ bw2pass is a Go tool that converts a Bitwarden JSON export into a Password Store
 
 ## Installation
 
+### Pre-Built Binaries
+
+Pre-Built binaries can be found under [releases](https://github.com/fvckgrimm/bw2pass/releases)
+
+### Building 
+
 1. Clone this repository:
 
 
