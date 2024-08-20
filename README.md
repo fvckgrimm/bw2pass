@@ -29,7 +29,7 @@ Pre-Built binaries can be found under [releases](https://github.com/fvckgrimm/bw
 
 
 ```bash
-git clone https://github.com/yourusername/bw2pass.git
+git clone https://github.com/fvckgrimm/bw2pass.git
 cd bw2pass
 ```
 
@@ -37,7 +37,7 @@ cd bw2pass
 
 
 ```bash
-go build bw2pass.go
+go build -v -o bw2pass main.go
 ```
 
 ## Usage
